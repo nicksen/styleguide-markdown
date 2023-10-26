@@ -13,6 +13,7 @@
  */
 module.exports = {
   printWidth: 160,
+  plugins: ["prettier-plugin-sh"],
   overrides: [
     {
       files: [".husky/*"],
