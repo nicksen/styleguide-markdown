@@ -8,9 +8,9 @@ importers:
 
   .:
     devDependencies:
-      '@arcticicestudio/eslint-config-base':
-        specifier: '>=0.11.0 <1.0.0'
-        version: 0.11.0(eslint-config-prettier@8.8.0)(eslint-plugin-import@2.27.5)(eslint-plugin-prettier@4.2.1)(eslint@8.39.0)
+      '@svengreb/eslint-config-base':
+        specifier: 0.12.0
+        version: 0.12.0(eslint-config-prettier@8.8.0)(eslint-plugin-import@2.27.5)(eslint-plugin-prettier@4.2.1)(eslint@8.39.0)
       eslint:
         specifier: 8.39.0
         version: 8.39.0
@@ -269,22 +269,6 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /@arcticicestudio/eslint-config-base@0.11.0(eslint-config-prettier@8.8.0)(eslint-plugin-import@2.27.5)(eslint-plugin-prettier@4.2.1)(eslint@8.39.0):
-    resolution: {integrity: sha512-wt2a0xbxKZ7T500bmWBHN1JHy3xMSBbpf8CLxMB3yfD25zWRmpDo5sWYMNP7XY7+aCamWJ/xg+/d8b/ue9b7iA==}
-    deprecated: Please migrate to the @svengreb/eslint-config-base package
-    peerDependencies:
-      eslint: ^7.23.0
-      eslint-config-prettier: ^8.1.0
-      eslint-plugin-import: ^2.22.1
-      eslint-plugin-prettier: ^3.3.1
-    dependencies:
-      confusing-browser-globals: 1.0.11
-      eslint: 8.39.0
-      eslint-config-prettier: 8.8.0(eslint@8.39.0)
-      eslint-plugin-import: 2.27.5(eslint@8.39.0)
-      eslint-plugin-prettier: 4.2.1(eslint-config-prettier@8.8.0)(eslint@8.39.0)(prettier@2.8.8)
-    dev: true
-
   /@babel/code-frame@7.22.13:
     resolution: {integrity: sha512-XktuhWlJ5g+3TJXc5upd9Ks1HutSArik6jf2eAjYFyIOf4ej3RN+184cZbzDvbPnuTJIUhPKKJE3cIsYTiAT3w==}
     engines: {node: '>=6.9.0'}
@@ -443,6 +427,22 @@ packages:
       open: 9.1.0
       picocolors: 1.0.0
       tslib: 2.6.2
+    dev: true
+
+  /@svengreb/eslint-config-base@0.12.0(eslint-config-prettier@8.8.0)(eslint-plugin-import@2.27.5)(eslint-plugin-prettier@4.2.1)(eslint@8.39.0):
+    resolution: {integrity: sha512-kGZq/4uvZE3pzbUI3HZhlOqU4WJ/G3mArq/7RYPht6Fz60ST29UdeC7X7xuFiW4ffFt1dCQRLcETTdb4QEzmhA==}
+    engines: {node: '>=15.13', npm: '>=7.7'}
+    peerDependencies:
+      eslint: ^8.39.0
+      eslint-config-prettier: ^8.8.0
+      eslint-plugin-import: ^2.27.5
+      eslint-plugin-prettier: ^4.2.1
+    dependencies:
+      confusing-browser-globals: 1.0.11
+      eslint: 8.39.0
+      eslint-config-prettier: 8.8.0(eslint@8.39.0)
+      eslint-plugin-import: 2.27.5(eslint@8.39.0)
+      eslint-plugin-prettier: 4.2.1(eslint-config-prettier@8.8.0)(eslint@8.39.0)(prettier@2.8.8)
     dev: true
 
   /@types/concat-stream@2.0.1:
