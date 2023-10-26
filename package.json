@@ -21,9 +21,6 @@
     "node": ">=15.13",
     "npm": ">=7.7"
   },
-  "workspaces": [
-    "packages/@nicksen/*"
-  ],
   "scripts": {
     "format": "run-s format:*",
     "format:js": "eslint --fix .",
@@ -35,8 +32,7 @@
     "lint:md": "remark --no-stdout . .github/",
     "lint:pretty": "prettier --check --ignore-unknown --no-editorconfig \"**\"",
     "prepare": "run-s prepare:*",
-    "prepare:husky": "husky install",
-    "test": "npm --workspaces run test"
+    "prepare:husky": "husky install"
   },
   "devDependencies": {
     "@arcticicestudio/eslint-config-base": ">=0.11.0 <1.0.0",
