@@ -10,5 +10,5 @@
  */
 
 export default {
-  plugins: ["./packages/@svengreb/remark-preset-lint/index.js"],
+  plugins: ["./packages/@nicksen/remark-preset-lint/index.js"],
 };

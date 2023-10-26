@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@svengreb/remark-preset-lint" target="_blank">
-    <img src="https://img.shields.io/npm/v/@svengreb/remark-preset-lint.svg?style=flat-square&label=npm&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
+  <a href="https://www.npmjs.com/package/@nicksen/remark-preset-lint" target="_blank">
+    <img src="https://img.shields.io/npm/v/@nicksen/remark-preset-lint.svg?style=flat-square&label=npm&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
   </a>
-  <a href="https://www.npmjs.com/package/@svengreb/remark-preset-lint" target="_blank">
-    <img src="https://img.shields.io/npm/dt/@svengreb/remark-preset-lint.svg?style=flat-square&label=Downloads&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
+  <a href="https://www.npmjs.com/package/@nicksen/remark-preset-lint" target="_blank">
+    <img src="https://img.shields.io/npm/dt/@nicksen/remark-preset-lint.svg?style=flat-square&label=Downloads&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
   </a>
 </p>
 
@@ -56,10 +56,10 @@ Add the package as development dependency to your project:
 
 ```sh
 # With npm...
-npm install --save-dev @svengreb/remark-preset-lint
+npm install --save-dev @nicksen/remark-preset-lint
 
 # or Yarn.
-yarn add --dev @svengreb/remark-preset-lint
+yarn add --dev @nicksen/remark-preset-lint
 ```
 
 Note that [peer dependencies][12], like the [remark-lint][9] package itself, are **only installed automatically when using a npm version equal or higher than `7.0.0`**, otherwise they must be installed separately like described in the [peer dependencies](#peer-dependencies) section below.
@@ -78,7 +78,7 @@ As of **npm version `7.0.0`, peer dependencies are** [**installed automatically*
 For **npm version equal to or higher than `5.0.0` (pre-bundled with [Node.js 8][14]) but less than `7.0.0`**, all peer dependencies can be auto-installed using the pre-bundled [`npx`][16] package:
 
 ```sh
-npx install-peerdeps --dev @svengreb/remark-preset-lint
+npx install-peerdeps --dev @nicksen/remark-preset-lint
 ```
 
 ##### npm versions `<5.0.0`
@@ -88,18 +88,18 @@ If you’re using a **npm version less than `5.0.0`**, the `npx` package is not 
 ```sh
 # Install and use the "install-peerdeps" helper package locally...
 npm install install-peerdeps
-./node_modules/.bin/install-peerdeps --dev @svengreb/remark-preset-lint
+./node_modules/.bin/install-peerdeps --dev @nicksen/remark-preset-lint
 
 # ...or globally.
 npm install --global install-peerdeps
-install-peerdeps --dev @svengreb/remark-preset-lint
+install-peerdeps --dev @nicksen/remark-preset-lint
 ```
 
 To install all peer dependencies manually without `npx` or any helper package, the npm `info` command can be used to get a list of all packages and their versions:
 
 ```sh
 # List the names and versions of all peer dependencies...
-npm info "@svengreb/remark-preset-lint" peerDependencies
+npm info "@nicksen/remark-preset-lint" peerDependencies
 
 # ...and install each listed package manually.
 npm install PACKAGE@VERSION
@@ -111,12 +111,12 @@ If you’re not using npm but Yarn, peer dependencies can be installed by either
 
 ```sh
 # Either add all packages manually by listing all required names and their versions and install them manually...
-yarn info @svengreb/remark-preset-lint peerDependencies
+yarn info @nicksen/remark-preset-lint peerDependencies
 yarn add --dev remark-lint #...
 
 # ...or use the "install-peerdeps" helper package.
 yarn add --dev install-peerdeps
-yarn run install-peerdeps --dev @svengreb/remark-preset-lint
+yarn run install-peerdeps --dev @nicksen/remark-preset-lint
 ```
 
 ## Usage
@@ -125,7 +125,7 @@ The package can be used as rule preset by adding it to the plugins within your `
 
 ```js
 module.exports = {
-  plugins: ["@svengreb/remark-preset-lint"],
+  plugins: ["@nicksen/remark-preset-lint"],
 };
 ```
 

@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@svengreb/remark-preset-lint" target="_blank">
-    <img src="https://img.shields.io/npm/v/@svengreb/remark-preset-lint.svg?style=flat-square&label=@svengreb/remark-preset-lint&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
+  <a href="https://www.npmjs.com/package/@nicksen/remark-preset-lint" target="_blank">
+    <img src="https://img.shields.io/npm/v/@nicksen/remark-preset-lint.svg?style=flat-square&label=@nicksen/remark-preset-lint&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTEyIDE0SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjhhMiAyIDAgMCAxLTIgMnpNNCAzLjMzMkEuNjcuNjcgMCAwIDAgMy4zMzIgNHY4YzAgLjM2Ny4zLjY2OC42NjguNjY4aDhhLjY3LjY3IDAgMCAwIC42NjgtLjY2OFY0QS42Ny42NyAwIDAgMCAxMiAzLjMzMnptMCAwIi8+PHBhdGggZmlsbD0iI2Q4ZGVlOSIgZD0iTTggNmgyLjY2OHY2LjY2OEg4em0wIDAiLz48L3N2Zz4K" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ Learn about the [comprehensive base rule set][9] with support for [GitHub Flavor
 
 ### Remark Configurations
 
-To follow the rules in a project and ensure that your code matches this style guide use the official extensible code linter rule preset [@svengreb/remark-preset-lint][12] for [remark-lint][11], a plugin for [remark][13].
+To follow the rules in a project and ensure that your code matches this style guide use the official extensible code linter rule preset [@nicksen/remark-preset-lint][12] for [remark-lint][11], a plugin for [remark][13].
 
 <p align="center">
   <picture>
@@ -85,5 +85,5 @@ To follow the rules in a project and ensure that your code matches this style gu
 [9]: https://github.com/svengreb/styleguide-markdown/blob/main/rules/index.md
 [10]: https://github.github.com/gfm
 [11]: https://github.com/remarkjs/remark-lint
-[12]: https://github.com/svengreb/styleguide-markdown/tree/main/packages/@svengreb/remark-preset-lint
+[12]: https://github.com/svengreb/styleguide-markdown/tree/main/packages/@nicksen/remark-preset-lint
 [13]: https://remark.js.org
