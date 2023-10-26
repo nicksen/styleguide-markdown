@@ -1,6 +1,6 @@
 {
   "name": "@nicksen/remark-preset-lint",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "The opinionated, yet universally applicable Markdown code style guide rules as an extensible remark-lint rule preset",
   "author": {
     "name": "Sven Greb",
