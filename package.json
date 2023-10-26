@@ -7,13 +7,13 @@
     "email": "development@svengreb.de",
     "url": "https://www.svengreb.de"
   },
-  "homepage": "https://github.com/svengreb/styleguide-markdown",
+  "homepage": "https://github.com/nicksen/styleguide-markdown",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svengreb/styleguide-markdown.git"
+    "url": "git+https://github.com/nicksen/styleguide-markdown.git"
   },
   "bugs": {
-    "url": "https://github.com/svengreb/styleguide-markdown/issues"
+    "url": "https://github.com/nicksen/styleguide-markdown/issues"
   },
   "license": "MIT",
   "private": true,
